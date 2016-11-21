@@ -1,0 +1,4 @@
+rootProject.name = 'algorithmic_tb'
+include 'exercises'
+include 'submissions'
+
